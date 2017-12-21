@@ -1,5 +1,9 @@
 # Urljoin
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
+https://img.shields.io/pypi/v/CaseInsensitiveDict.svg
+https://img.shields.io/pypi/wheel/CaseInsensitiveDict.svg
+https://api.travis-ci.org/tivvit/python-case-insensitive-dict.svg?branch=master
+https://img.shields.io/github/license/tivvit/python-case-insensitive-dict.svg
 
 When you need to join url paths!
 
@@ -18,9 +22,6 @@ urljoin.url_path_join("a/", "/b")
 urljoin.url_path_join("a", "b", trailing_slash=True)
 'a/b/'
 ```
-
-## Disclaimer
-Works only in python3 (because of `kwargs` after `*args` https://stackoverflow.com/questions/15301999/python-2-x-default-arguments-with-args-and-kwargs)
 
 ## Development
 

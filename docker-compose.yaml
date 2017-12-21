@@ -5,3 +5,11 @@ services:
     volumes:
     - ./urljoin:/urljoin
     - ./tests:/tests
+  tests2:
+    build:
+      context: tests
+      dockerfile: Dockerfile-python2
+    volumes:
+    - ./urljoin:/urljoin
+    - ./tests:/tests
+
