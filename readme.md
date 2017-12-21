@@ -1,9 +1,8 @@
 # Urljoin
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
-https://img.shields.io/pypi/v/CaseInsensitiveDict.svg
-https://img.shields.io/pypi/wheel/CaseInsensitiveDict.svg
-https://api.travis-ci.org/tivvit/python-case-insensitive-dict.svg?branch=master
-https://img.shields.io/github/license/tivvit/python-case-insensitive-dict.svg
+![pip version](https://img.shields.io/pypi/v/urljoin.svg)
+![pip wheel](https://img.shields.io/pypi/wheel/urljoin.svg)
+![Build Status](https://travis-ci.org/datasets-org/urljoin.svg?branch=master)](https://travis-ci.org/datasets-org/urljoin)
 
 When you need to join url paths!
 
