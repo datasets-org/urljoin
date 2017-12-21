@@ -2,7 +2,7 @@
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![pip version](https://img.shields.io/pypi/v/urljoin.svg)
 ![pip wheel](https://img.shields.io/pypi/wheel/urljoin.svg)
-![Build Status](https://travis-ci.org/datasets-org/urljoin.svg?branch=master)](https://travis-ci.org/datasets-org/urljoin)
+![Build Status](https://travis-ci.org/datasets-org/urljoin.svg?branch=master)
 
 When you need to join url paths!
 
