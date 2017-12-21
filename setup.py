@@ -28,6 +28,6 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: Implementation :: PyPy',
     ],
-    keywords=["url", "path", "join"],
+    keywords="url path join",
     packages=["urljoin"],
 )
