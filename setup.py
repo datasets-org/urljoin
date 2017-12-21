@@ -5,7 +5,7 @@ setup(
     name='urljoin',
     version='1.0.0',
     description='join URL paths',
-    url='https://github.com/tivvit/python-case-insensitive-dict',
+    url='https://github.com/datasets-org/urljoin',
     author='Vit Listik',
     author_email='tivvit@seznam.cz',
     license='MIT',
