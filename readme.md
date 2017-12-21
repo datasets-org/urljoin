@@ -26,7 +26,7 @@ Works only in python3 (because of `kwargs` after `*args` https://stackoverflow.c
 
 Feel free to contribute via pull request or file an issue.
 
-##Copyright and License
+## Copyright and License
 
 &copy; 2017 [tivvit.cz](https://tivvit.cz)
 
